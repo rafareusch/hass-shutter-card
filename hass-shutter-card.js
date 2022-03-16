@@ -54,7 +54,7 @@ class ShutterCard extends HTMLElement {
             <div class="sc-shutter-buttons">
               <ha-icon-button class="sc-shutter-button" data-command="up"><ha-icon icon="mdi:arrow-up"></ha-icon></ha-icon-button><br>
               <ha-icon-button class="sc-shutter-button" data-command="stop"><ha-icon icon="mdi:stop"></ha-icon></ha-icon-button><br>
-              <ha-icon-button class="sc-shutter-button" data-command="down"><ha-icon icon="mdi:arrow-down"></ha-icon></ha-icon-button>
+              <ha-icon-button class="sc-shutter-button" data-command="down"><ha-icon icon="mdi:arrow-up"></ha-icon></ha-icon-button>
             </div>
             <div class="sc-shutter-selector">
               <div class="sc-shutter-selector-picture">
